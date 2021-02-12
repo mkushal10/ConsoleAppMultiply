@@ -1,0 +1,7 @@
+D:\.NET Projects\ConsoleAppMultiply\bin\Debug\ConsoleAppMultiply.exe.config
+D:\.NET Projects\ConsoleAppMultiply\bin\Debug\ConsoleAppMultiply.exe
+D:\.NET Projects\ConsoleAppMultiply\bin\Debug\ConsoleAppMultiply.pdb
+D:\.NET Projects\ConsoleAppMultiply\obj\Debug\ConsoleAppMultiply.csprojAssemblyReference.cache
+D:\.NET Projects\ConsoleAppMultiply\obj\Debug\ConsoleAppMultiply.csproj.CoreCompileInputs.cache
+D:\.NET Projects\ConsoleAppMultiply\obj\Debug\ConsoleAppMultiply.exe
+D:\.NET Projects\ConsoleAppMultiply\obj\Debug\ConsoleAppMultiply.pdb
